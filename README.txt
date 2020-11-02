@@ -1,3 +1,2 @@
-There should be important stuff in here
-But there is none
-
+#Summer Stuff
+Assignments from my summer practice in the University.
